@@ -2,13 +2,13 @@
 
 Record conversations, transcribe audio, and keep your notes and meeting screenshots together. Use your Zimlo account across Windows, Mac, and iPhone.
 
-[Download Zimlo for Windows](https://github.com/jaywoofter/Zimlo-Releases/releases/download/windows-v1.0.0/Zimlo-Setup-1.0.0-x64.exe)
+[Download Zimlo for Windows](https://github.com/jaywoofter/Zimlo-Releases/releases/download/windows-v1.0.1/Zimlo-Setup-1.0.1-x64.exe)
 
-Version 1.0.0 · Windows x64 installer for Intel and AMD PCs. Microsoft Foundry Local transcription requires Windows 11 24H2 or later. An ARM64 installer is not included in this release.
+Version 1.0.1 · Windows x64 installer for Intel and AMD PCs. Microsoft Foundry Local transcription requires Windows 11 24H2 or later. An ARM64 installer is not included in this release.
 
 ## Install
 
-1. Download and run **Zimlo-Setup-1.0.0-x64.exe**.
+1. Download and run **Zimlo-Setup-1.0.1-x64.exe**.
 2. Follow the installer, then open Zimlo from your desktop or Start menu. Installation is for your Windows account.
 3. If Windows reports a missing Microsoft C++ runtime, install the [Microsoft Visual C++ x64 Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe) and reopen Zimlo.
 
